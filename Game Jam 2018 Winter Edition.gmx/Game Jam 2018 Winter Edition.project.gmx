@@ -8,7 +8,8 @@
   <sprites name="sprites">
     <sprite>sprites\PC_Forward</sprite>
     <sprite>sprites\PC_Backward</sprite>
-    <sprite>sprites\PC_Left_Right</sprite>
+    <sprite>sprites\PC_Right</sprite>
+    <sprite>sprites\PC_Left</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
