@@ -14,9 +14,9 @@ if (x_dir > 0) {
 } else if (x_dir < 0) {
     sprite_index = spr_pc_left;
 } else if (y_dir > 0) {
-    sprite_index = spr_pc_forward;
+    sprite_index = spr_pc_down;
 } else if (y_dir < 0) {
-    sprite_index = spr_pc_backward;
+    sprite_index = spr_pc_up;
 } else {
     state = scr_pc_stationary_state;
 }

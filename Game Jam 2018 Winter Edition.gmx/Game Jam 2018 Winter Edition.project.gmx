@@ -6,8 +6,8 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\spr_pc_forward</sprite>
-    <sprite>sprites\spr_pc_backward</sprite>
+    <sprite>sprites\spr_pc_down</sprite>
+    <sprite>sprites\spr_pc_up</sprite>
     <sprite>sprites\spr_pc_right</sprite>
     <sprite>sprites\spr_pc_left</sprite>
     <sprite>sprites\spr_test_wall</sprite>
