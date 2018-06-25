@@ -4,7 +4,7 @@
   <solid>0</solid>
   <visible>-1</visible>
   <depth>0</depth>
-  <persistent>0</persistent>
+  <persistent>-1</persistent>
   <parentName>&lt;undefined&gt;</parentName>
   <maskName>&lt;undefined&gt;</maskName>
   <events>
@@ -105,8 +105,8 @@ script_execute(state);
   <PhysicsObjectAwake>-1</PhysicsObjectAwake>
   <PhysicsObjectKinematic>0</PhysicsObjectKinematic>
   <PhysicsShapePoints>
-    <point>4,0</point>
-    <point>28,0</point>
+    <point>4,16</point>
+    <point>28,16</point>
     <point>28,32</point>
     <point>4,32</point>
   </PhysicsShapePoints>

@@ -50,7 +50,109 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
-  <instances/>
+  <instances>
+    <instance objName="obj_wall_partial" x="64" y="96" name="inst_E1296867" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="96" y="128" name="inst_E72A3A3A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="128" y="192" name="inst_293B711C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="128" y="352" name="inst_7630217A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="160" y="384" name="inst_D368FBE7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="192" y="448" name="inst_4B4D2F52" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="224" y="480" name="inst_9143371D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="128" y="544" name="inst_DFE100A5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="96" y="576" name="inst_8E18E0D5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="64" y="608" name="inst_B0E06DA0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="32" y="736" name="inst_D10FD7FD" locked="0" code="" scaleX="3" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="128" y="704" name="inst_04248683" locked="0" code="" scaleX="2" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="192" y="672" name="inst_77286F76" locked="0" code="" scaleX="2" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="256" y="640" name="inst_9246BF64" locked="0" code="" scaleX="3" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="352" y="672" name="inst_A1A68006" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="384" y="704" name="inst_55A2C612" locked="0" code="" scaleX="4" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="512" y="672" name="inst_AA0C42CC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="544" y="640" name="inst_CC9BC858" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="576" y="608" name="inst_00070613" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="608" y="544" name="inst_46661C65" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="640" y="480" name="inst_47B1CDA1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="640" y="320" name="inst_17BC20CC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="576" y="288" name="inst_4F5F154C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="640" y="160" name="inst_C741297B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="672" y="128" name="inst_7CDB1C91" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="704" y="96" name="inst_BCB6A8B2" locked="0" code="" scaleX="2" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="768" y="128" name="inst_615225A5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="800" y="160" name="inst_E48FD8A7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="832" y="192" name="inst_59EA4E32" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="864" y="224" name="inst_21998337" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="896" y="288" name="inst_A2B721BE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="960" y="384" name="inst_AD24E382" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="928" y="544" name="inst_14787F40" locked="0" code="" scaleX="2" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="896" y="576" name="inst_A0BEE068" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="864" y="608" name="inst_3C3E0798" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_partial" x="800" y="736" name="inst_172E2E6E" locked="0" code="" scaleX="5" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="64" y="0" name="inst_7A161448" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="32" y="0" name="inst_9C162DA3" locked="0" code="" scaleX="1" scaleY="4" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="64" y="128" name="inst_1FCABBEE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="96" y="160" name="inst_9346BEB8" locked="0" code="" scaleX="1" scaleY="7" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="128" y="224" name="inst_0BE17B19" locked="0" code="" scaleX="1" scaleY="3" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="192" y="96" name="inst_4CCAA0A1" locked="0" code="" scaleX="1" scaleY="7" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="224" y="320" name="inst_ECD55658" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="256" y="352" name="inst_34D77C53" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="288" y="384" name="inst_C3D79466" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="320" y="416" name="inst_F0D2EA69" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="352" y="480" name="inst_DFF6040F" locked="0" code="" scaleX="1" scaleY="4" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="384" y="608" name="inst_C55EFA0C" locked="0" code="" scaleX="3" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="480" y="576" name="inst_CF104517" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="512" y="512" name="inst_B0FB978D" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="544" y="448" name="inst_18032FD8" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="576" y="320" name="inst_1A3A1662" locked="0" code="" scaleX="1" scaleY="4" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="640" y="352" name="inst_AD3F07D4" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="672" y="256" name="inst_F43B0478" locked="0" code="" scaleX="1" scaleY="8" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="640" y="512" name="inst_6BD7B987" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="608" y="576" name="inst_599A9972" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="576" y="640" name="inst_169F8B0D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="544" y="672" name="inst_ED2F994B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="512" y="704" name="inst_D6155127" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="256" y="672" name="inst_FF044250" locked="0" code="" scaleX="3" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="192" y="704" name="inst_96B45C87" locked="0" code="" scaleX="6" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="128" y="736" name="inst_16260D97" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="768" y="576" name="inst_F7123DE1" locked="0" code="" scaleX="1" scaleY="6" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="992" y="480" name="inst_337E09BF" locked="0" code="" scaleX="1" scaleY="9" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="960" y="416" name="inst_47C987D5" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="992" y="256" name="inst_A3F053DD" locked="0" code="" scaleX="1" scaleY="5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="896" y="320" name="inst_2500F5B0" locked="0" code="" scaleX="1" scaleY="6" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="864" y="480" name="inst_3D0F0115" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="832" y="512" name="inst_94EE05C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="800" y="544" name="inst_C71026DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="864" y="256" name="inst_0B37268E" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="704" y="128" name="inst_1DB8AAD5" locked="0" code="" scaleX="2" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="640" y="192" name="inst_D7A10563" locked="0" code="" scaleX="6" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="640" y="224" name="inst_2E7E246C" locked="0" code="" scaleX="7" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="672" y="160" name="inst_4BCD0C10" locked="0" code="" scaleX="4" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="544" y="96" name="inst_9115E215" locked="0" code="" scaleX="1" scaleY="7" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="576" y="64" name="inst_2F651363" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="608" y="32" name="inst_863A150A" locked="0" code="" scaleX="2" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="672" y="0" name="inst_F5D8BBC1" locked="0" code="" scaleX="4" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="800" y="32" name="inst_A2E5DE04" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="832" y="64" name="inst_9539E48F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="864" y="96" name="inst_91712AB3" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="896" y="160" name="inst_B22BCF30" locked="0" code="" scaleX="2" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="960" y="192" name="inst_FC108B94" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="128" y="0" name="inst_D90E83E7" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="160" y="64" name="inst_986D48CD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="96" y="608" name="inst_7C9AAF3B" locked="0" code="" scaleX="3" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="96" y="640" name="inst_C88F0CCF" locked="0" code="" scaleX="2" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="64" y="640" name="inst_F384F500" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="0" y="544" name="inst_A15096F3" locked="0" code="" scaleX="1" scaleY="7" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="32" y="512" name="inst_1F322F67" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="64" y="480" name="inst_DC7A6BDF" locked="0" code="" scaleX="5.16129016876221" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="128" y="384" name="inst_31D3B33D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="128" y="576" name="inst_C1874FF6" locked="0" code="" scaleX="4" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="160" y="512" name="inst_15CCC40D" locked="0" code="" scaleX="3" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="160" y="416" name="inst_35A4D500" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="928" y="576" name="inst_BF527D3C" locked="0" code="" scaleX="2" scaleY="3" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="864" y="640" name="inst_4BCD0908" locked="0" code="" scaleX="3" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall_full" x="896" y="608" name="inst_702FA2D8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_door" x="960" y="768" name="inst_4FEE511D" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_door" x="96" y="0" name="inst_0128AE3B" locked="0" code="//Door specifics&#xA;door_type = door_enum.ENTRY; //(ENTRY or EXIT)&#xA;new_rm = test_room_one;&#xA;new_x = (2.5*32);&#xA;new_y = (room_height - 52);&#xA;&#xA;//Set appropriate door sprite&#xA;image_index = door_type;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+  </instances>
   <tiles>
     <tile bgName="incan_mountains" x="0" y="224" w="32" h="32" xo="67" yo="133" id="10001348" name="inst_DE717932" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="32" y="256" w="32" h="32" xo="67" yo="133" id="10001350" name="inst_02E75F42" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -204,10 +306,6 @@
     <tile bgName="incan_mountains" x="64" y="544" w="32" h="32" xo="67" yo="100" id="10001541" name="inst_AD3144E0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="32" y="544" w="32" h="32" xo="67" yo="100" id="10001542" name="inst_E9370A97" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="32" y="576" w="32" h="32" xo="67" yo="100" id="10001543" name="inst_BE18CD02" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="incan_mountains" x="0" y="576" w="32" h="32" xo="67" yo="100" id="10001544" name="inst_2EDA8FC0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="incan_mountains" x="0" y="608" w="32" h="32" xo="67" yo="100" id="10001545" name="inst_B64B80D7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="incan_mountains" x="0" y="640" w="32" h="32" xo="67" yo="100" id="10001546" name="inst_B84500A2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="incan_mountains" x="0" y="672" w="32" h="32" xo="67" yo="100" id="10001547" name="inst_27A0E4FF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="640" y="288" w="32" h="32" xo="67" yo="100" id="10001550" name="inst_714004FA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="640" y="256" w="32" h="32" xo="67" yo="100" id="10001551" name="inst_531E3E75" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="608" y="288" w="32" h="32" xo="67" yo="100" id="10001562" name="inst_CFF50713" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -272,7 +370,6 @@
     <tile bgName="incan_mountains" x="896" y="704" w="32" h="32" xo="67" yo="100" id="10001674" name="inst_8E968F10" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="928" y="704" w="32" h="32" xo="67" yo="100" id="10001675" name="inst_81180EB2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="960" y="704" w="32" h="32" xo="67" yo="100" id="10001676" name="inst_6DF16CA7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="incan_mountains" x="992" y="704" w="32" h="32" xo="67" yo="100" id="10001680" name="inst_5580A70E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="832" y="640" w="32" h="32" xo="67" yo="100" id="10001681" name="inst_61876635" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="800" y="704" w="32" h="32" xo="67" yo="100" id="10001682" name="inst_835AAFD9" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="800" y="576" w="32" h="32" xo="67" yo="100" id="10001683" name="inst_700476D8" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -293,8 +390,6 @@
     <tile bgName="incan_mountains" x="64" y="64" w="32" h="32" xo="67" yo="100" id="10001714" name="inst_11AAD4D3" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="96" y="64" w="32" h="32" xo="67" yo="100" id="10001715" name="inst_2F9B5F3B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="96" y="96" w="32" h="32" xo="67" yo="100" id="10001716" name="inst_F0E583A5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="incan_mountains" x="992" y="672" w="32" h="32" xo="67" yo="100" id="10001718" name="inst_4A9BC35B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="incan_mountains" x="96" y="0" w="32" h="32" xo="34" yo="232" id="10001719" name="inst_71DCEC6C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="64" y="0" w="32" h="32" xo="1" yo="34" id="10001720" name="inst_598D6A05" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="128" y="32" w="32" h="32" xo="1" yo="34" id="10001722" name="inst_4297F4CF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="160" y="64" w="32" h="32" xo="1" yo="34" id="10001723" name="inst_76159137" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -306,7 +401,6 @@
     <tile bgName="incan_mountains" x="96" y="480" w="32" h="32" xo="1" yo="34" id="10001729" name="inst_6A4C1DB1" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="64" y="480" w="32" h="32" xo="1" yo="34" id="10001730" name="inst_50653C72" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="32" y="512" w="32" h="32" xo="1" yo="34" id="10001731" name="inst_589A0D12" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="incan_mountains" x="0" y="544" w="32" h="32" xo="1" yo="34" id="10001732" name="inst_D9EFB1EC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="64" y="672" w="32" h="32" xo="1" yo="34" id="10001733" name="inst_C99463CA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="96" y="640" w="32" h="32" xo="1" yo="34" id="10001734" name="inst_788D2A95" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="128" y="640" w="32" h="32" xo="1" yo="34" id="10001735" name="inst_0E81CC78" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -335,7 +429,6 @@
     <tile bgName="incan_mountains" x="928" y="160" w="32" h="32" xo="1" yo="34" id="10001763" name="inst_0826E061" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="960" y="224" w="32" h="32" xo="1" yo="34" id="10001764" name="inst_DBA57014" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="960" y="672" w="32" h="32" xo="67" yo="100" id="10001769" name="inst_9DDFFBC3" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="incan_mountains" x="992" y="768" w="32" h="32" xo="1" yo="232" id="10001770" name="inst_F7610B57" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="-1"/>
     <tile bgName="incan_mountains" x="96" y="32" w="32" h="32" xo="67" yo="100" id="10001773" name="inst_40A8C71B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="0" y="352" w="32" h="32" xo="34" yo="67" id="10001810" name="inst_937B3654" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="0" y="416" w="32" h="32" xo="34" yo="67" id="10001820" name="inst_CF20FBDB" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -395,7 +488,6 @@
     <tile bgName="incan_mountains" x="160" y="224" w="32" h="32" xo="1" yo="199" id="10002456" name="inst_776655DC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="160" y="256" w="32" h="32" xo="1" yo="199" id="10002457" name="inst_808B1850" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="160" y="288" w="32" h="32" xo="1" yo="166" id="10002458" name="inst_2FA2A004" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="incan_mountains" x="640" y="320" w="32" h="32" xo="34" yo="133" id="10002460" name="inst_82FA5351" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="928" y="384" w="32" h="32" xo="34" yo="166" id="10002462" name="inst_5B8F2359" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="608" y="320" w="32" h="32" xo="34" yo="166" id="10002463" name="inst_7F58D2A8" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="608" y="352" w="32" h="32" xo="1" yo="199" id="10002464" name="inst_688AE2A6" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -406,7 +498,6 @@
     <tile bgName="incan_mountains" x="864" y="480" w="32" h="32" xo="1" yo="34" id="10002469" name="inst_ACD7BAB4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="832" y="512" w="32" h="32" xo="1" yo="34" id="10002470" name="inst_4EF20A00" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="800" y="544" w="32" h="32" xo="1" yo="34" id="10002472" name="inst_C7F3F60F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="incan_mountains" x="992" y="640" w="32" h="32" xo="1" yo="34" id="10002473" name="inst_4B471DB9" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="960" y="640" w="32" h="32" xo="1" yo="34" id="10002474" name="inst_41C50863" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="928" y="672" w="32" h="32" xo="1" yo="34" id="10002475" name="inst_AAD1A99A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="896" y="672" w="32" h="32" xo="1" yo="34" id="10002476" name="inst_D5A0C1DC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -441,7 +532,6 @@
     <tile bgName="incan_mountains" x="32" y="384" w="32" h="32" xo="1" yo="67" id="10002529" name="inst_F6BC4F53" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="32" y="448" w="32" h="32" xo="1" yo="67" id="10002531" name="inst_44A87D81" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="32" y="480" w="32" h="32" xo="1" yo="67" id="10002532" name="inst_AD7B4E76" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="incan_mountains" x="0" y="512" w="32" h="32" xo="1" yo="67" id="10002533" name="inst_CE2991F7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="64" y="416" w="32" h="32" xo="1" yo="67" id="10002534" name="inst_CA9E4E92" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="64" y="384" w="32" h="32" xo="1" yo="67" id="10002535" name="inst_F9465132" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="64" y="352" w="32" h="32" xo="1" yo="67" id="10002536" name="inst_EB819F32" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -680,7 +770,6 @@
     <tile bgName="incan_mountains" x="768" y="224" w="32" h="32" xo="67" yo="34" id="10003108" name="inst_A2FD4B87" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="704" y="224" w="32" h="32" xo="34" yo="34" id="10003109" name="inst_5A15879A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="768" y="192" w="32" h="32" xo="67" yo="67" id="10003110" name="inst_19243654" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="incan_mountains" x="800" y="160" w="32" h="32" xo="34" yo="67" id="10003113" name="inst_A12EBE88" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="800" y="192" w="32" h="32" xo="34" yo="67" id="10003114" name="inst_59BDAB99" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="800" y="224" w="32" h="32" xo="34" yo="67" id="10003115" name="inst_A3260C31" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="672" y="224" w="32" h="32" xo="67" yo="67" id="10003116" name="inst_93C31744" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -769,12 +858,21 @@
     <tile bgName="incan_mountains" x="736" y="704" w="32" h="32" xo="34" yo="100" id="10003210" name="inst_DEEE11C0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="704" y="448" w="32" h="32" xo="34" yo="100" id="10003211" name="inst_4FC21CFC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="640" y="0" w="32" h="32" xo="34" yo="100" id="10003219" name="inst_C55FCB14" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="incan_mountains" x="0" y="544" w="32" h="32" xo="67" yo="67" id="10003257" name="inst_28B6BA13" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="incan_mountains" x="0" y="512" w="32" h="32" xo="67" yo="67" id="10003258" name="inst_2FFC6E2F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="incan_mountains" x="0" y="576" w="32" h="32" xo="67" yo="67" id="10003260" name="inst_34A6A156" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="incan_mountains" x="0" y="608" w="32" h="32" xo="67" yo="67" id="10003262" name="inst_E0AFE395" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="incan_mountains" x="0" y="640" w="32" h="32" xo="67" yo="67" id="10003263" name="inst_3151C0E3" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="incan_mountains" x="0" y="672" w="32" h="32" xo="67" yo="67" id="10003264" name="inst_129DC92F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="incan_mountains" x="0" y="704" w="32" h="32" xo="67" yo="67" id="10003265" name="inst_F1664371" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="incan_mountains" x="992" y="672" w="32" h="32" xo="34" yo="67" id="10003269" name="inst_6285BD5F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="incan_mountains" x="992" y="640" w="32" h="32" xo="34" yo="67" id="10003270" name="inst_AB576D88" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="incan_mountains" x="992" y="704" w="32" h="32" xo="34" yo="67" id="10003271" name="inst_77AB1127" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="incan_mountains" x="992" y="736" w="32" h="32" xo="34" yo="67" id="10003272" name="inst_2502135B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="576" y="288" w="32" h="32" xo="1" yo="34" id="10002969" name="inst_6B07AA46" depth="0" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="96" y="736" w="32" h="32" xo="1" yo="34" id="10002970" name="inst_2FD94145" depth="0" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="64" y="736" w="32" h="32" xo="1" yo="34" id="10002971" name="inst_B3ACD5F3" depth="0" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="32" y="736" w="32" h="32" xo="1" yo="34" id="10002972" name="inst_3E34D169" depth="0" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="incan_mountains" x="960" y="736" w="32" h="32" xo="1" yo="34" id="10002973" name="inst_3C98F0C9" depth="0" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="incan_mountains" x="928" y="736" w="32" h="32" xo="1" yo="34" id="10002974" name="inst_310DDD3E" depth="0" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="896" y="736" w="32" h="32" xo="1" yo="34" id="10002975" name="inst_3B88B3F8" depth="0" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="864" y="736" w="32" h="32" xo="1" yo="34" id="10002976" name="inst_701F3B85" depth="0" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="832" y="736" w="32" h="32" xo="1" yo="34" id="10002977" name="inst_2F2FC553" depth="0" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -782,7 +880,6 @@
     <tile bgName="incan_mountains" x="128" y="544" w="32" h="32" xo="1" yo="67" id="10002979" name="inst_A53CEC18" depth="0" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="96" y="576" w="32" h="32" xo="1" yo="67" id="10002980" name="inst_C911ADD0" depth="0" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="64" y="608" w="32" h="32" xo="1" yo="67" id="10002981" name="inst_5944D793" depth="0" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="incan_mountains" x="0" y="704" w="32" h="32" xo="1" yo="67" id="10002982" name="inst_DCF62541" depth="0" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="224" y="672" w="32" h="32" xo="1" yo="67" id="10002985" name="inst_A3C64A0E" depth="0" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="256" y="640" w="32" h="32" xo="1" yo="67" id="10002986" name="inst_50ADF93B" depth="0" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="288" y="640" w="32" h="32" xo="1" yo="67" id="10002987" name="inst_7DEA5364" depth="0" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -821,13 +918,15 @@
     <tile bgName="incan_mountains" x="608" y="544" w="32" h="32" xo="1" yo="100" id="10003215" name="inst_B7FD88C4" depth="0" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="800" y="160" w="32" h="32" xo="34" yo="100" id="10003216" name="inst_52C5D4C6" depth="0" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="incan_mountains" x="864" y="224" w="32" h="32" xo="34" yo="100" id="10003217" name="inst_309CC2BD" depth="0" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="incan_mountains" x="928" y="736" w="32" h="32" xo="67" yo="34" id="10003273" name="inst_AD1156FE" depth="0" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="incan_mountains" x="640" y="320" w="32" h="32" xo="34" yo="133" id="10003274" name="inst_4074EBED" depth="0" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
   </tiles>
-  <PhysicsWorld>0</PhysicsWorld>
+  <PhysicsWorld>-1</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>
   <PhysicsWorldLeft>0</PhysicsWorldLeft>
   <PhysicsWorldRight>1024</PhysicsWorldRight>
   <PhysicsWorldBottom>768</PhysicsWorldBottom>
   <PhysicsWorldGravityX>0</PhysicsWorldGravityX>
-  <PhysicsWorldGravityY>10</PhysicsWorldGravityY>
+  <PhysicsWorldGravityY>0</PhysicsWorldGravityY>
   <PhysicsWorldPixToMeters>0.100000001490116</PhysicsWorldPixToMeters>
 </room>
