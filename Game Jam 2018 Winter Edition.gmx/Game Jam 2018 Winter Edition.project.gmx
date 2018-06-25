@@ -11,8 +11,14 @@
     <sprite>sprites\spr_pc_right</sprite>
     <sprite>sprites\spr_pc_left</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\incan_mountains</background>
+  </backgrounds>
   <paths name="paths"/>
+  <rooms name="rooms">
+    <room>rooms\test_room_two</room>
+    <room>rooms\test_room_one</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
