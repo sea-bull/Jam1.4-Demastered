@@ -6,19 +6,31 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\spr_pc_forward</sprite>
-    <sprite>sprites\spr_pc_backward</sprite>
+    <sprite>sprites\spr_pc_down</sprite>
+    <sprite>sprites\spr_pc_up</sprite>
     <sprite>sprites\spr_pc_right</sprite>
     <sprite>sprites\spr_pc_left</sprite>
+<<<<<<< HEAD
     <sprite>sprites\temple_spike_trap</sprite>
+=======
+    <sprite>sprites\spr_test_wall</sprite>
+>>>>>>> d97529f779e330f944c86d6dcb655aad2da73f43
   </sprites>
-  <backgrounds name="background">
-    <background>background\incan_mountains</background>
-  </backgrounds>
+  <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\scr_get_input.gml</script>
+    <scripts name="Player Scripts">
+      <script>scripts\scr_pc_moving_state.gml</script>
+      <script>scripts\scr_pc_stationary_state.gml</script>
+    </scripts>
+  </scripts>
+  <objects name="objects">
+    <object>objects\obj_pc</object>
+    <object>objects\obj_wall</object>
+  </objects>
   <rooms name="rooms">
-    <room>rooms\test_room_two</room>
-    <room>rooms\test_room_one</room>
+    <room>rooms\rm_test_room</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
