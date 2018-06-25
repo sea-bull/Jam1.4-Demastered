@@ -10,6 +10,7 @@
     <sprite>sprites\spr_pc_backward</sprite>
     <sprite>sprites\spr_pc_right</sprite>
     <sprite>sprites\spr_pc_left</sprite>
+    <sprite>sprites\temple_spike_trap</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\incan_mountains</background>
