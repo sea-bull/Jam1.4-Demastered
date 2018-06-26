@@ -29,12 +29,14 @@
 
 //Define an enumerated type (EXIT=0, ENTRY=1).
 enum door_enum {
-    EXIT = 0,
-    ENTRY
+    OUTSIDE_LIGHT = 0,
+    OUTSIDE_DARK,
+    TEMPLE_LIGHT,
+    TEMPLE_DARK
 };
 
 //Initialise the door's instance variables
-door_type = door_enum.EXIT;
+door_type = door_enum.OUTSIDE_LIGHT;
 new_x = 0;
 new_y = 0;
 new_rm = noone;
@@ -48,7 +50,7 @@ image_speed = 0;
     </event>
   </events>
   <PhysicsObject>-1</PhysicsObject>
-  <PhysicsObjectSensor>-1</PhysicsObjectSensor>
+  <PhysicsObjectSensor>0</PhysicsObjectSensor>
   <PhysicsObjectShape>1</PhysicsObjectShape>
   <PhysicsObjectDensity>0</PhysicsObjectDensity>
   <PhysicsObjectRestitution>0.100000001490116</PhysicsObjectRestitution>
@@ -61,7 +63,7 @@ image_speed = 0;
   <PhysicsShapePoints>
     <point>0,0</point>
     <point>32,0</point>
-    <point>32,16</point>
-    <point>0,16</point>
+    <point>32,12</point>
+    <point>0,12</point>
   </PhysicsShapePoints>
 </object>
